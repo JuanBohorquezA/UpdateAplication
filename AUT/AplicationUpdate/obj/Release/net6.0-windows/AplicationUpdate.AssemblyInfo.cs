@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AplicationUpdate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c1dcbf3ae34381af3e593f42542eb5a8f5579f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07711df9931f8b5a78e4175ffc032a7c0e14eb74")]
 [assembly: System.Reflection.AssemblyProductAttribute("AplicationUpdate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AplicationUpdate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
