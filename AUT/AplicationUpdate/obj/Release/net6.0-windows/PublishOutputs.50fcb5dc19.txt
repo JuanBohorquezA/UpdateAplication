@@ -1,0 +1,5 @@
+C:\Users\juanc\OneDrive\Escritorio\UpdateAplication\published\AplicationUpdate.exe
+C:\Users\juanc\OneDrive\Escritorio\UpdateAplication\published\AplicationUpdate.dll
+C:\Users\juanc\OneDrive\Escritorio\UpdateAplication\published\AplicationUpdate.deps.json
+C:\Users\juanc\OneDrive\Escritorio\UpdateAplication\published\AplicationUpdate.runtimeconfig.json
+C:\Users\juanc\OneDrive\Escritorio\UpdateAplication\published\AplicationUpdate.pdb
