@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     
     <Grid Background="Blue">
-        <TextBlock Text="ACTUALIZADO REMOTAMENTE" TextAlignment="Center" FontSize="40" Foreground="red" FontWeight="Bold"/>
+        <TextBlock Text="ACTUALIZADO REMOTAMENTE" TextAlignment="Center" FontSize="40" Foreground="#fff" FontWeight="Bold"/>
         <Button Width="200" Height="100" Background="SlateGray" Content="BOTONV2" FontSize="30" FontWeight="DemiBold" Foreground="red"/>
     </Grid>
     
