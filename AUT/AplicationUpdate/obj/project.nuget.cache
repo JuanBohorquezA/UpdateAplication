@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yfcMlnsmowzHqDfwdWVwDqpA4p7zOPjS2rKYwUwHRB4nx1XUZgKwB91/C6pAcnON5P6DdKxe7OsNM6s07FzFPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juanc\\OneDrive\\Escritorio\\UpdateAplication\\AUT\\AplicationUpdate\\AplicationUpdate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juanc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\juanc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\juanc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\juanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
